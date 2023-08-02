@@ -1827,7 +1827,7 @@ const restaurantList = [
 
 const Title = () => (
     <a href="/">
-        <img className="logo" src={Logo} alt="Food Fire Logo" />
+        <img className="logo" src={Logo} alt="Burrito" />
     </a>
 );
 
