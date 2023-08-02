@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./App.css"
 import Logo from "./Images/matt-artz-drUv03GxoRI-unsplash.jpg";
-
+// Unsplash image added for logo purpose.
 
 // RestaurantList is JSON Data for displaying cards
 const restaurantList = [
